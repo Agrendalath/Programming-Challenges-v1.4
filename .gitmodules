@@ -1,3 +1,6 @@
 [submodule "Name-generator"]
 	path = Name-generator
 	url = https://github.com/Agrendalath/Name-generator
+[submodule "Django_Programming_Challenges_v1_4"]
+	path = Django_Programming_Challenges_v1_4
+	url = https://github.com/Agrendalath/Django_Programming_Challenges_v1_4
